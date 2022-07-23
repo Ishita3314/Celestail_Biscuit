@@ -25,4 +25,11 @@
 ### 23rd June, 2022
 
 -> ML Algo 
+
+### 24th - 30th June, 2022
+
+-> ML Algo
+
+### 1st - 23rd July, 2022
    
+-> Andrew Ng AI Course
